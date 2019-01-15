@@ -4,9 +4,8 @@ class Song
 
     @@all = []
 
-    def initalize(name, genre)
+    def initalize(name)
         @name = name
-        @genre = genre
         @@all << self
     end
 

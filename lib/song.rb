@@ -10,6 +10,4 @@ class Song
         @@all << self
     end
 
-    def artist
-
 end

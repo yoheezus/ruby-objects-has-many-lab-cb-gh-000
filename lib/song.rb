@@ -6,7 +6,6 @@ class Song
 
     def initalize(title)
         @title = title
-        @@all << self
     end
 
 end
